@@ -10,7 +10,7 @@
      "type": "git", 
      "url": "https://git-wip-us.apache.org/repos/asf/cordova-mobile-spec.git"},
   "dependencies": { 
-    "shelljs": "0.2.6",
+    "shelljs": "0.8.5",
     "optimist": "0.6.1" },
   "private": true
 }
