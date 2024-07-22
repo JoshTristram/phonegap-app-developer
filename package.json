@@ -24,8 +24,8 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "cordova-android": "~6.4.0",
-    "cordova-ios": "^4.5.3",
+    "cordova-android": "~13.0.0",
+    "cordova-ios": "^7.1.0",
     "cordova-plugin-battery-status": "^1.2.5",
     "cordova-plugin-ble-central": "^1.1.4",
     "cordova-plugin-camera": "^3.0.0",
@@ -37,7 +37,7 @@
     "cordova-plugin-file-transfer": "^1.7.0",
     "cordova-plugin-geolocation": "^3.0.0",
     "cordova-plugin-globalization": "^1.0.8",
-    "cordova-plugin-inappbrowser": "^1.7.2",
+    "cordova-plugin-inappbrowser": "^3.1.0",
     "cordova-plugin-insomnia": "^4.3.0",
     "cordova-plugin-media": "^4.0.0",
     "cordova-plugin-media-capture": "^2.0.0",
@@ -59,18 +59,18 @@
   },
   "devDependencies": {
     "app-root-path": "1.0.0",
-    "cordova-common": "2.0.3",
+    "cordova-common": "5.0.0",
     "eslint": "^5.5.0",
     "eslint-config-standard": "^12.0.0",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-node": "^7.0.1",
     "fs-extra": "0.24.0",
-    "jest": "^23.5.0",
+    "jest": "^29.7.0",
     "less": "2.7.1",
     "npm-run": "4.1.0",
-    "phonegap": "7.1.1",
-    "request": "2.65.0",
-    "xml2js": "0.4.12"
+    "phonegap": "9.0.0",
+    "request": "2.88.2",
+    "xml2js": "0.5.0"
   },
   "cordova": {
     "platforms": [
